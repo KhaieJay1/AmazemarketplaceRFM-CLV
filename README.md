@@ -102,3 +102,5 @@ Create a [dashboard in Tableau](https://public.tableau.com/app/profile/kay.afu/v
 
 ![Optimization   Business Insights3](https://github.com/user-attachments/assets/cf43794c-6f16-444c-8fb9-58b378d4a2ab)
 
+### Links
+[GoogleSheets](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=2016545808#gid=2016545808), [Tableau](https://public.tableau.com/app/profile/kay.afu/viz/CustomerSegmentationRFM_17084114616270/Dashboard1),  [Project Documentation](https://docs.google.com/document/d/1qGdFL5TbcNcJ4i35NA5IwJWhvQbmftnuMblGWKlwxl0/edit?tab=t.0#heading=h.drfswr7wcgvh) 
