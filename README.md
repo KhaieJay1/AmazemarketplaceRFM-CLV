@@ -1,4 +1,4 @@
-![Amazemarketplace cropped](https://github.com/user-attachments/assets/7f1d0d52-e207-4513-883d-dca117adf91b) 
+![Amazemarketplace 25 cropped](https://github.com/user-attachments/assets/1116aed5-aaff-4148-a647-dc13b8b77216)
 
 # AmazeMarketplace CLV, Customer Segmentation & RFM Analysis
 
