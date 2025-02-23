@@ -61,23 +61,21 @@ The primary goal is to analyze customer purchasing behavior over a one-year peri
 - Use APPROX_QUANTILES to assign quartiles (1-4) for R, F, and M scores.
   
 ![Use APPROX_QUANTILES to assign quartiles (1-4) for R, F, and M scores](https://github.com/user-attachments/assets/7aa09b26-f0a5-4c16-b4c6-dfb56dc8b827)
-
-
-- Merge RFM scores into a single [RFM Score](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=724853351#gid=724853351).
+- Merge RFM scores into a single [RFM Score](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=724853351#gid=724853351)
 ![Merge RFM scores into a single RFM Score](https://github.com/user-attachments/assets/526aa1c9-89c4-4d7e-9c07-dfbb9970db27)
 
 ## 3. Customer Segmentation:
-Categorize customers into Best Customers, Loyal Customers, Big Spenders, Lost Customers, etc.
+- Categorize customers into Best Customers, Loyal Customers, Big Spenders, Lost Customers, etc.
 ![Categorize customers ](https://github.com/user-attachments/assets/dda45596-69b6-467a-995d-424f9bec0a61)
 
-Compare with [rfm_value](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=982402840#gid=982402840) and [rfm_quantiles tables](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=1388210542#gid=1388210542).
+- Compare with [rfm_value](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=982402840#gid=982402840) and [rfm_quantiles tables](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=1388210542#gid=1388210542).
 ![Compare with rfm_quantiles tables](https://github.com/user-attachments/assets/d0a85936-ce9f-4560-a8d6-db0db608f57b)
 
 ## 4. Visualization & Insights:
-Create a [dashboard in Tableau](https://public.tableau.com/app/profile/kay.afu/viz/CustomerSegmentationRFM_17084114616270/Dashboard1).
+Create a [dashboard in Tableau](https://public.tableau.com/app/profile/kay.afu/viz/CustomerSegmentationRFM_17084114616270/Dashboard1) Provide insights on which customer segment to focus marketing efforts on.
 ![RFM dashboard in Tableau](https://github.com/user-attachments/assets/056a3d50-ce0e-4c1b-8c7e-8cf681edb791)
 
-Provide insights on which customer segment to focus marketing efforts on.
+
 # Phase 2: Customer Lifetime Value (CLV)
 ### 1. Key Metrics Calculation [(SQL)](https://docs.google.com/spreadsheets/d/14bkNza52kFWUSrScmSLYnQS4Pp0OJ6lh6_VK2Jv_e9M/edit?gid=790783378#gid=790783378):
 - registration_week
